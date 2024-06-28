@@ -5,3 +5,5 @@ Extract all the .rar files to get the total database. Refer to these links: http
 Chayan Halder and Kaushik Roy, "Individuality of Isolated Bangla Characters", in proceedings: 2014 International Conference on Devices, Circuits and Communications (ICDCCom), Ranchi, India, 2014, pp. 1-6, doi: 10.1109/ICDCCom.2014.7024729.
 
 Payel Rakshit, Chayan Halder, Kaushik Roy, "An Approach toward Character Recognition of Bangla Handwritten Isolated Characters", in book: Document Processing Using Machine Learning, 1st Edition, pp. 15-28, Chapman and Hall/CRC, New York, 2019, eBook ISBN: 9780429277573, doi: 10.1201/9780429277573-2.
+
+To download the dataset the following form needs to be filled up first. The password to unzip the dataset will be provided to the email upon submission of the form. The form can be found @ https://forms.gle/FerCfzZGYzKL85DE6
